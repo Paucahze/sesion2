@@ -43,8 +43,8 @@ else {
 ---------------*/
 //Exponeneciacion
 
-let numUno = 3
-let numDos = 4
+//let numUno = 3
+//let numDos = 4
 
 //console.log(numUno**numDos) // osea 3 x 3 x 3 x 3 a la potencia
 
