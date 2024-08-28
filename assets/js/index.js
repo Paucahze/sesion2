@@ -73,4 +73,16 @@ numUno --
 numUno --
 numUno --
 numUno --
-console.log(numUno) //-2*/
+console.log(numUno) //-2
+
+//Outputs se refiere alproceso de mostrar datos o resultados de la operacion al usuario 
+//promt, alert, console.log
+//input (todo modificacion del DOM) document.querySelector ("input")
+
+//document.write("eto se vera en el documento ") // se ve en la pantalla no muy usado, ni buena practica porque rompe
+
+let personas = [
+    {nombre: "ana", edad :28},
+    {nombre: "carlos", edad : 27}
+];
+console.table(personas)*/
